@@ -1,0 +1,10 @@
+.cover__texts {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  z-index: 2;
+  margin: 0 auto;
+  position: relative;
+  color: #fff;
+}

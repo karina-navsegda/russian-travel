@@ -1,0 +1,9 @@
+.intro__list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  list-style: none;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
