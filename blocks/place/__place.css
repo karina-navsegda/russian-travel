@@ -1,4 +1,4 @@
-.places__place {
+.place {
   display: grid;
   grid-template-columns: 460px 1fr;
   grid-template-rows: auto;
