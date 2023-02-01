@@ -33,8 +33,6 @@
 @media screen and (max-width: 1024px) {
   .cover {
     max-width: 100%;
-    background-size: contain;
-    background-repeat: no-repeat;
     min-height: 640px;
   }
 }

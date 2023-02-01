@@ -3,13 +3,12 @@
   line-height: 28px;
   text-align: right;
   color: #fff;
-  text-decoration: underline;
   margin-right: 18px;
+  text-decoration: none;
 }
 
 .header__lang-link:last-child {
   margin: 0;
-  text-decoration: none;
 }
 .header__lang-link:hover {
   opacity: 0.8;

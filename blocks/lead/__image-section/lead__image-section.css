@@ -3,10 +3,3 @@
   width: 100%;
   object-fit: cover;
 }
-
-@media screen and (max-width: 1024px) {
-  .lead__image-section {
-    width: 100%;
-    object-fit: cover;
-  }
-}
